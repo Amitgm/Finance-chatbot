@@ -1,0 +1,327 @@
+[
+    {
+        "symbol": "AAPL",
+        "lastFiscalYearEnd": "The last fisacl year end is 2024-09-28",
+        "metrics": [
+            {
+                "name": "marketCap",
+                "value": 2958377353216,
+                "explanation": "The market capitalization of AAPL is $2,958,377,353,216, indicating the company's total valuation."
+            },
+            {
+                "name": "trailingPE",
+                "value": 31.259523,
+                "explanation": "AAPL has a trailing P/E ratio of 31.259523, suggesting how the market values its earnings."
+            },
+            {
+                "name": "profitMargins",
+                "value": 0.24295,
+                "explanation": "AAPL has a profit margin of 24.30%, meaning it keeps that percentage of revenue as profit."
+            },
+            {
+                "name": "revenueGrowth",
+                "value": 0.04,
+                "explanation": "AAPL has seen a revenue growth of 4.00% year-over-year, showing its top-line momentum."
+            },
+            {
+                "name": "trailingEps",
+                "value": 6.3,
+                "explanation": "AAPL has an earnings per share (EPS) of $6.3, representing its profitability per share."
+            },
+            {
+                "name": "totalRevenue",
+                "value": 395760009216,
+                "explanation": "AAPL reported total revenue of $395,760,009,216, reflecting its scale of operations."
+            },
+            {
+                "name": "recommendationKey",
+                "value": "buy",
+                "explanation": "Analysts currently rate AAPL as a 'buy' overall."
+            },
+            {
+                "name": "targetMeanPrice",
+                "value": 237.3895,
+                "explanation": "The average analyst price target for AAPL is $237.3895, indicating future price expectations."
+            },
+            {
+                "name": "earningsGrowth",
+                "value": 0.101,
+                "explanation": "AAPL has an earnings growth of 10.10%, pointing to its future profit potential."
+            },
+            {
+                "name": "dividendYield",
+                "value": 0.51,
+                "explanation": "AAPL offers a dividend yield of 51.00%, making it appealing to income-focused investors."
+            },
+            {
+                "name": "longBusinessSummary",
+                "value": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+                "explanation": "AAPL business summary: Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California."
+            },
+            {
+                "name": "sector",
+                "value": "Technology",
+                "explanation": "The sector AAPL belongs to is Technology"
+            }
+        ]
+    },
+    {
+        "symbol": "NVDA",
+        "lastFiscalYearEnd": "The last fisacl year end is 2025-01-26",
+        "metrics": [
+            {
+                "name": "marketCap",
+                "value": 2474769907712,
+                "explanation": "The market capitalization of NVDA is $2,474,769,907,712, indicating the company's total valuation."
+            },
+            {
+                "name": "trailingPE",
+                "value": 34.4983,
+                "explanation": "NVDA has a trailing P/E ratio of 34.4983, suggesting how the market values its earnings."
+            },
+            {
+                "name": "profitMargins",
+                "value": 0.55848,
+                "explanation": "NVDA has a profit margin of 55.85%, meaning it keeps that percentage of revenue as profit."
+            },
+            {
+                "name": "revenueGrowth",
+                "value": 0.779,
+                "explanation": "NVDA has seen a revenue growth of 77.90% year-over-year, showing its top-line momentum."
+            },
+            {
+                "name": "trailingEps",
+                "value": 2.94,
+                "explanation": "NVDA has an earnings per share (EPS) of $2.94, representing its profitability per share."
+            },
+            {
+                "name": "totalRevenue",
+                "value": 130497003520,
+                "explanation": "NVDA reported total revenue of $130,497,003,520, reflecting its scale of operations."
+            },
+            {
+                "name": "recommendationKey",
+                "value": "strong_buy",
+                "explanation": "Analysts currently rate NVDA as a 'strong_buy' overall."
+            },
+            {
+                "name": "targetMeanPrice",
+                "value": 165.47649,
+                "explanation": "The average analyst price target for NVDA is $165.47649, indicating future price expectations."
+            },
+            {
+                "name": "earningsGrowth",
+                "value": 0.836,
+                "explanation": "NVDA has an earnings growth of 83.60%, pointing to its future profit potential."
+            },
+            {
+                "name": "dividendYield",
+                "value": 0.04,
+                "explanation": "NVDA offers a dividend yield of 4.00%, making it appealing to income-focused investors."
+            },
+            {
+                "name": "longBusinessSummary",
+                "value": "NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Singapore, Taiwan, China, Hong Kong, and internationally. The Compute & Networking segment comprises Data Center computing platforms and end-to-end networking platforms, including Quantum for InfiniBand and Spectrum for Ethernet; NVIDIA DRIVE automated-driving platform and automotive development agreements; Jetson robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and DGX Cloud software and services. The Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; virtual GPU or vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building and operating industrial AI and digital twin applications. It also customized agentic solutions designed in collaboration with NVIDIA to accelerate enterprise AI adoption. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, consumer internet companies, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+                "explanation": "NVDA business summary: NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Singapore, Taiwan, China, Hong Kong, and internationally. The Compute & Networking segment comprises Data Center computing platforms and end-to-end networking platforms, including Quantum for InfiniBand and Spectrum for Ethernet; NVIDIA DRIVE automated-driving platform and automotive development agreements; Jetson robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and DGX Cloud software and services. The Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; virtual GPU or vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building and operating industrial AI and digital twin applications. It also customized agentic solutions designed in collaboration with NVIDIA to accelerate enterprise AI adoption. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, consumer internet companies, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California."
+            },
+            {
+                "name": "sector",
+                "value": "Technology",
+                "explanation": "The sector NVDA belongs to is Technology"
+            }
+        ]
+    },
+    {
+        "symbol": "TSLA",
+        "lastFiscalYearEnd": "The last fisacl year end is 2024-12-31",
+        "metrics": [
+            {
+                "name": "marketCap",
+                "value": 776403615744,
+                "explanation": "The market capitalization of TSLA is $776,403,615,744, indicating the company's total valuation."
+            },
+            {
+                "name": "trailingPE",
+                "value": 117.746346,
+                "explanation": "TSLA has a trailing P/E ratio of 117.746346, suggesting how the market values its earnings."
+            },
+            {
+                "name": "profitMargins",
+                "value": 0.07259,
+                "explanation": "TSLA has a profit margin of 7.26%, meaning it keeps that percentage of revenue as profit."
+            },
+            {
+                "name": "revenueGrowth",
+                "value": 0.021,
+                "explanation": "TSLA has seen a revenue growth of 2.10% year-over-year, showing its top-line momentum."
+            },
+            {
+                "name": "trailingEps",
+                "value": 2.05,
+                "explanation": "TSLA has an earnings per share (EPS) of $2.05, representing its profitability per share."
+            },
+            {
+                "name": "totalRevenue",
+                "value": 97690001408,
+                "explanation": "TSLA reported total revenue of $97,690,001,408, reflecting its scale of operations."
+            },
+            {
+                "name": "recommendationKey",
+                "value": "hold",
+                "explanation": "Analysts currently rate TSLA as a 'hold' overall."
+            },
+            {
+                "name": "targetMeanPrice",
+                "value": 311.2731,
+                "explanation": "The average analyst price target for TSLA is $311.2731, indicating future price expectations."
+            },
+            {
+                "name": "earningsGrowth",
+                "value": -0.709,
+                "explanation": "TSLA has an earnings growth of -70.90%, pointing to its future profit potential."
+            },
+            {
+                "name": "longBusinessSummary",
+                "value": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The Automotive segment offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty after-sales vehicle, used vehicles, body shop and parts, supercharging, retail merchandise, and vehicle insurance services. This segment also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. The Energy Generation and Storage segment engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. This segment also provides services and repairs to its energy product customers, including under warranty; and various financing options to its residential customers. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.",
+                "explanation": "TSLA business summary: Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The Automotive segment offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty after-sales vehicle, used vehicles, body shop and parts, supercharging, retail merchandise, and vehicle insurance services. This segment also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. The Energy Generation and Storage segment engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. This segment also provides services and repairs to its energy product customers, including under warranty; and various financing options to its residential customers. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas."
+            },
+            {
+                "name": "sector",
+                "value": "Consumer Cyclical",
+                "explanation": "The sector TSLA belongs to is Consumer Cyclical"
+            }
+        ]
+    },
+    {
+        "symbol": "MSFT",
+        "lastFiscalYearEnd": "The last fisacl year end is 2024-06-30",
+        "metrics": [
+            {
+                "name": "marketCap",
+                "value": 2734069121024,
+                "explanation": "The market capitalization of MSFT is $2,734,069,121,024, indicating the company's total valuation."
+            },
+            {
+                "name": "trailingPE",
+                "value": 29.683615,
+                "explanation": "MSFT has a trailing P/E ratio of 29.683615, suggesting how the market values its earnings."
+            },
+            {
+                "name": "profitMargins",
+                "value": 0.35428002,
+                "explanation": "MSFT has a profit margin of 35.43%, meaning it keeps that percentage of revenue as profit."
+            },
+            {
+                "name": "revenueGrowth",
+                "value": 0.123,
+                "explanation": "MSFT has seen a revenue growth of 12.30% year-over-year, showing its top-line momentum."
+            },
+            {
+                "name": "trailingEps",
+                "value": 12.39,
+                "explanation": "MSFT has an earnings per share (EPS) of $12.39, representing its profitability per share."
+            },
+            {
+                "name": "totalRevenue",
+                "value": 261802000384,
+                "explanation": "MSFT reported total revenue of $261,802,000,384, reflecting its scale of operations."
+            },
+            {
+                "name": "recommendationKey",
+                "value": "strong_buy",
+                "explanation": "Analysts currently rate MSFT as a 'strong_buy' overall."
+            },
+            {
+                "name": "targetMeanPrice",
+                "value": 494.6098,
+                "explanation": "The average analyst price target for MSFT is $494.6098, indicating future price expectations."
+            },
+            {
+                "name": "earningsGrowth",
+                "value": 0.102,
+                "explanation": "MSFT has an earnings growth of 10.20%, pointing to its future profit potential."
+            },
+            {
+                "name": "dividendYield",
+                "value": 0.9,
+                "explanation": "MSFT offers a dividend yield of 90.00%, making it appealing to income-focused investors."
+            },
+            {
+                "name": "longBusinessSummary",
+                "value": "Microsoft Corporation develops and supports software, services, devices and solutions worldwide. The Productivity and Business Processes segment offers office, exchange, SharePoint, Microsoft Teams, office 365 Security and Compliance, Microsoft viva, and Microsoft 365 copilot; and office consumer services, such as Microsoft 365 consumer subscriptions, Office licensed on-premises, and other office services. This segment also provides LinkedIn; and dynamics business solutions, including Dynamics 365, a set of intelligent, cloud-based applications across ERP, CRM, power apps, and power automate; and on-premises ERP and CRM applications. The Intelligent Cloud segment offers server products and cloud services, such as azure and other cloud services; SQL and windows server, visual studio, system center, and related client access licenses, as well as nuance and GitHub; and enterprise services including enterprise support services, industry solutions, and nuance professional services. The More Personal Computing segment offers Windows, including windows OEM licensing and other non-volume licensing of the Windows operating system; Windows commercial comprising volume licensing of the Windows operating system, windows cloud services, and other Windows commercial offerings; patent licensing; and windows Internet of Things; and devices, such as surface, HoloLens, and PC accessories. Additionally, this segment provides gaming, which includes Xbox hardware and content, and first- and third-party content; Xbox game pass and other subscriptions, cloud gaming, advertising, third-party disc royalties, and other cloud services; and search and news advertising, which includes Bing, Microsoft News and Edge, and third-party affiliates. The company sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online, and retail stores. The company was founded in 1975 and is headquartered in Redmond, Washington.",
+                "explanation": "MSFT business summary: Microsoft Corporation develops and supports software, services, devices and solutions worldwide. The Productivity and Business Processes segment offers office, exchange, SharePoint, Microsoft Teams, office 365 Security and Compliance, Microsoft viva, and Microsoft 365 copilot; and office consumer services, such as Microsoft 365 consumer subscriptions, Office licensed on-premises, and other office services. This segment also provides LinkedIn; and dynamics business solutions, including Dynamics 365, a set of intelligent, cloud-based applications across ERP, CRM, power apps, and power automate; and on-premises ERP and CRM applications. The Intelligent Cloud segment offers server products and cloud services, such as azure and other cloud services; SQL and windows server, visual studio, system center, and related client access licenses, as well as nuance and GitHub; and enterprise services including enterprise support services, industry solutions, and nuance professional services. The More Personal Computing segment offers Windows, including windows OEM licensing and other non-volume licensing of the Windows operating system; Windows commercial comprising volume licensing of the Windows operating system, windows cloud services, and other Windows commercial offerings; patent licensing; and windows Internet of Things; and devices, such as surface, HoloLens, and PC accessories. Additionally, this segment provides gaming, which includes Xbox hardware and content, and first- and third-party content; Xbox game pass and other subscriptions, cloud gaming, advertising, third-party disc royalties, and other cloud services; and search and news advertising, which includes Bing, Microsoft News and Edge, and third-party affiliates. The company sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online, and retail stores. The company was founded in 1975 and is headquartered in Redmond, Washington."
+            },
+            {
+                "name": "sector",
+                "value": "Technology",
+                "explanation": "The sector MSFT belongs to is Technology"
+            }
+        ]
+    },
+    {
+        "symbol": "GOOGL",
+        "lastFiscalYearEnd": "The last fisacl year end is 2024-12-31",
+        "metrics": [
+            {
+                "name": "marketCap",
+                "value": 1855469387776,
+                "explanation": "The market capitalization of GOOGL is $1,855,469,387,776, indicating the company's total valuation."
+            },
+            {
+                "name": "trailingPE",
+                "value": 18.808458,
+                "explanation": "GOOGL has a trailing P/E ratio of 18.808458, suggesting how the market values its earnings."
+            },
+            {
+                "name": "profitMargins",
+                "value": 0.28604,
+                "explanation": "GOOGL has a profit margin of 28.60%, meaning it keeps that percentage of revenue as profit."
+            },
+            {
+                "name": "revenueGrowth",
+                "value": 0.118,
+                "explanation": "GOOGL has seen a revenue growth of 11.80% year-over-year, showing its top-line momentum."
+            },
+            {
+                "name": "trailingEps",
+                "value": 8.04,
+                "explanation": "GOOGL has an earnings per share (EPS) of $8.04, representing its profitability per share."
+            },
+            {
+                "name": "totalRevenue",
+                "value": 350018011136,
+                "explanation": "GOOGL reported total revenue of $350,018,011,136, reflecting its scale of operations."
+            },
+            {
+                "name": "recommendationKey",
+                "value": "buy",
+                "explanation": "Analysts currently rate GOOGL as a 'buy' overall."
+            },
+            {
+                "name": "targetMeanPrice",
+                "value": 204.4788,
+                "explanation": "The average analyst price target for GOOGL is $204.4788, indicating future price expectations."
+            },
+            {
+                "name": "earningsGrowth",
+                "value": 0.309,
+                "explanation": "GOOGL has an earnings growth of 30.90%, pointing to its future profit potential."
+            },
+            {
+                "name": "dividendYield",
+                "value": 0.53,
+                "explanation": "GOOGL offers a dividend yield of 53.00%, making it appealing to income-focused investors."
+            },
+            {
+                "name": "longBusinessSummary",
+                "value": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in the Google Play and YouTube; and devices, as well as in the provision of YouTube consumer subscription services. The Google Cloud segment offers AI infrastructure, Vertex AI platform, cybersecurity, data and analytics, and other services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other services for enterprise customers. The Other Bets segment sells healthcare-related and internet services. The company was incorporated in 1998 and is headquartered in Mountain View, California.",
+                "explanation": "GOOGL business summary: Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in the Google Play and YouTube; and devices, as well as in the provision of YouTube consumer subscription services. The Google Cloud segment offers AI infrastructure, Vertex AI platform, cybersecurity, data and analytics, and other services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other services for enterprise customers. The Other Bets segment sells healthcare-related and internet services. The company was incorporated in 1998 and is headquartered in Mountain View, California."
+            },
+            {
+                "name": "sector",
+                "value": "Communication Services",
+                "explanation": "The sector GOOGL belongs to is Communication Services"
+            }
+        ]
+    }
+]
